@@ -30,6 +30,9 @@ Here's a walkthrough of implemented user stories:
 <img src='https://im6.ezgif.com/tmp/ezgif-6-8e912b540811.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [Imgur](https://imgur.com/9CmwAU4)
 
+<img src= 'https://im6.ezgif.com/tmp/ezgif-6-d03205c8f0cf.gif'/> 
+[Imgur](https://imgur.com/xEOD05L)
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
